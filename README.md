@@ -1,4 +1,4 @@
-# <div align="center">
+<div align="center">
 
   <!-- BANNER PERSONALIZADO -->
   <img src="VICMEANLE (1).png" width="100%" alt="Vicmeanle Lain Banner">
@@ -58,7 +58,7 @@
   ## Connect
 
   <!-- LINKS E REDES SOCIAIS MINIMALISTAS PRETAS E BRANCAS -->
-  <a href="https://github.com/vitoriareis123o-glitch" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
+  <a href="https://github.com/VitoriaReisDev" target="_blank"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;
   <a href="https://www.linkedin.com/in/vitoria-reis-3b8883419/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
   <a href="mailto:vitoriareis123o@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
   <a href="https://www.instagram.com/vicmeanle/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -66,6 +66,5 @@
   <br><br>
   
   <hr style="border-top: 1px solid #30363d;">
-
 
 </div>
