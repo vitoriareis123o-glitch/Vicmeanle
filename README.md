@@ -67,9 +67,5 @@
   
   <hr style="border-top: 1px solid #30363d;">
 
-  ## Contribution
-
-  <!-- GRÁFICO DE COMMITS AUTOMÁTICO -->
-  <img src="https://github-readme-stroke-charts.vercel.app/?user=vitoriareis123o-glitch&theme=dark" width="100%" alt="Gráfico de Contribuições">
 
 </div>
